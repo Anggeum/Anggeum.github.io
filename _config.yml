@@ -16,8 +16,9 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  style: [black]
+  title: Young Gyoung
+  tagline: SWE Student
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
